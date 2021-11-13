@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 #импорт всего
 import telebot
 import pandas as pd
